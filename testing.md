@@ -1,61 +1,42 @@
-## 🎙️ Introduction
-Today, we’re not talking about ethics as abstract ideas or boring rules. We’re talking about **real consequences** for our careers, for users, and even for the planet. 
+# Ethical Coding in 2026
 
-As Seneca students entering the tech industry, these three pillars define how we survive and succeed as professionals.
+## Introduction
+Hi, this is Jiwon, Nasser, Sayed, and Nyan. In 2026, software ethics are no longer just ideas. They are professional survival. These three pillars define how we survive and succeed as professionals.
 
----
+Today, we’ll cover three pillars: **Legal Shift**, **Deceptive Design**, and **Sustainable Software**.
 
-## ⚖️ Pillar 1: The Legal Shift (Compliance)
-
-Historically, software development has lacked the accountability seen in civil engineering. When an engineer designs a bridge, they accept legal liability for its structural integrity. The regulatory landscape has finally caught up to software.
-
-> [!IMPORTANT]
-> **The EU Cyber Resilience Act (2026)**
-> The industry has moved from "best effort" to strict legal obligation. We no longer have the luxury of the "patch it later" mentality.
-
-* **Reporting Mandate:** Once a critical vulnerability is identified, developers are under a **mandatory 24-hour window** to report it.
-* **The Shift:** Security is no longer a late-stage polish; it is a fundamental requirement for our professional right to practice.
+> Firstly, Jiwon/Nasser/Sayed/Nyan will introduce Pillar 1: the legal shift.
 
 ---
 
-## 🕵️ Pillar 2: Deceptive Design (Dark Patterns)
+## Pillar 1: The Legal Shift (Compliance)
+Like a civil engineer is liable for a bridge, we are now responsible for our code. According to the EU Cyber Resilience Act, 'patch it later' is over. If a vulnerability is found, we must report it within 24 hours. Security is no longer a polish; it’s a legal requirement from day one.
 
-While Pillar 1 focuses on the law, Pillar 2 focuses on the user. In modern development, we often see the weaponization of cognitive psychology through **Dark Patterns**.
-
-### The "Roach Motel"
-A design architecture where entering a service is seamless, but exiting is intentionally obstructed by complex navigation and hidden menus.
-
-* **The Statistic:** Princeton University research indicates nearly **99%** of top-tier web platforms utilize these deceptive tactics.
-* **The 2026 Standard:** We move toward **"Symmetry of Choice."** The path to *Reject* must be as visible and efficient as the path to *Accept*. 
-
-**Goal:** Transition from "Engagement at any cost" to **Informed Consent**.
+> Next, Jiwon/Nasser/Sayed/Nyan will talk about Pillar 2: Deceptive Design.
 
 ---
 
-## 🌱 Pillar 3: Carbon-Aware Computing
+## Pillar 2: Deceptive Design (Dark Patterns)
+While Pillar 1 focuses on the law, Pillar 2 focuses on the user. Ethical design is about user trust. Many platforms use 'Dark Patterns' like the 'Roach Motel', it’s easy to join, impossible to leave. Research shows 99% of websites use these tricks. But the 2026 standard is 'Symmetry of Choice', rejecting a service must be as easy as accepting it. Don't trick users. Support their choices.
 
-Performance is no longer measured solely by speed; in 2026, it is measured by **energy efficiency**. Every unnecessary CPU cycle represents a direct carbon cost.
 
-According to the **Pereira Study**, our choice of stack is an environmental decision:
 
-| Language | Energy Consumption (Normalized) |
-| :--- | :--- |
-| **C / Rust** | 1.00 |
-| **Java** | 1.98 |
-| **Python** | **75.88** |
-
-In 2026, efficient code isn’t just high-performance—it is the only ethical way to build for a sustainable future. We have a professional duty to optimize for the planet.
+> Lastly, Jiwon/Nasser/Sayed/Nyan will talk about Pillar 3: Environmental Impact.
 
 ---
 
-## 🎓 Conclusion
+## Pillar 3: Environmental Impact (Carbon-Aware Computing)
+Performance now equals energy efficiency. This is Carbon-Aware Computing. Did you know unoptimized Python can use 75 times more energy than Rust or C? Our choice of programming language is now an environmental decision. Optimization is sustainability. These three pillars show how our role as developers is changing.
 
-We are no longer just "coders"; we are **architects of digital society.** As we graduate from Seneca’s CPA / CPP program, our goal isn't just to build software that works. Our goal is to build software that is:
-* **Responsible**
-* **Sustainable**
-* **Worthy of public trust**
 
-**Thank you. Questions?**
+
+> Finally, Jiwon/Nasser/Sayed/Nyan will talk about the conclusion.
 
 ---
-*References available on final slide.*
+
+## Conclusion
+In 2026, we aren't just coders; we are architects of a digital society. We must build software that is responsible, sustainable, and trusted.
+
+Now, to wrap up our presentation, we’d like to give a discussion question to you:
+
+**“If you had to pick only one to focus on, would you prioritize the law, user transparency, or the environment?”**
