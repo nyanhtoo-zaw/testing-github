@@ -1,4 +1,4 @@
-# Ethical Coding in 2026
+_Hello_
 
 ## Introduction
 Hi, this is Jiwon, Nasser, Sayed, and Nyan. In 2026, software ethics are no longer just ideas. They are professional survival. These three pillars define how we survive and succeed as professionals.
